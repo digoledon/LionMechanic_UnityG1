@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/GTest_2D.unity
-  isLoaded: 1
-  isActive: 1
